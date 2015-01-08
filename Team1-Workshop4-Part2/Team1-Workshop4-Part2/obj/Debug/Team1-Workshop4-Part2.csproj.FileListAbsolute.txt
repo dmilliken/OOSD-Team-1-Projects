@@ -1,0 +1,32 @@
+c:\users\672093\documents\visual studio 2012\Projects\Team1-Workshop4-Part2\Team1-Workshop4-Part2\bin\Debug\Team1-Workshop4-Part2.exe.config
+c:\users\672093\documents\visual studio 2012\Projects\Team1-Workshop4-Part2\Team1-Workshop4-Part2\bin\Debug\Team1-Workshop4-Part2.exe
+c:\users\672093\documents\visual studio 2012\Projects\Team1-Workshop4-Part2\Team1-Workshop4-Part2\bin\Debug\Team1-Workshop4-Part2.pdb
+c:\users\672093\documents\visual studio 2012\Projects\Team1-Workshop4-Part2\Team1-Workshop4-Part2\obj\Debug\Team1-Workshop4-Part2.csprojResolveAssemblyReference.cache
+c:\users\672093\documents\visual studio 2012\Projects\Team1-Workshop4-Part2\Team1-Workshop4-Part2\obj\Debug\Team1_Workshop4_Part2.Properties.Resources.resources
+c:\users\672093\documents\visual studio 2012\Projects\Team1-Workshop4-Part2\Team1-Workshop4-Part2\obj\Debug\Team1-Workshop4-Part2.csproj.GenerateResource.Cache
+c:\users\672093\documents\visual studio 2012\Projects\Team1-Workshop4-Part2\Team1-Workshop4-Part2\obj\Debug\Team1-Workshop4-Part2.exe
+c:\users\672093\documents\visual studio 2012\Projects\Team1-Workshop4-Part2\Team1-Workshop4-Part2\obj\Debug\Team1-Workshop4-Part2.pdb
+C:\Users\672093\Documents\Visual Studio 2012\Projects\Team1-Workshop4-Part2 - WithDB\Team1-Workshop4-Part2\bin\Debug\Team1-Workshop4-Part2.exe.config
+C:\Users\672093\Documents\Visual Studio 2012\Projects\Team1-Workshop4-Part2 - WithDB\Team1-Workshop4-Part2\obj\Debug\Team1-Workshop4-Part2.exe
+C:\Users\672093\Documents\Visual Studio 2012\Projects\Team1-Workshop4-Part2 - WithDB\Team1-Workshop4-Part2\obj\Debug\Team1-Workshop4-Part2.pdb
+C:\Users\672093\Documents\Visual Studio 2012\Projects\Team1-Workshop4-Part2 - WithDB\Team1-Workshop4-Part2\obj\Debug\Team1-Workshop4-Part2.csprojResolveAssemblyReference.cache
+C:\Users\672093\Documents\Visual Studio 2012\Projects\Team1-Workshop4-Part2 - WithDB\Team1-Workshop4-Part2\obj\Debug\Team1_Workshop4_Part2.Form1.resources
+C:\Users\672093\Documents\Visual Studio 2012\Projects\Team1-Workshop4-Part2 - WithDB\Team1-Workshop4-Part2\obj\Debug\Team1_Workshop4_Part2.Properties.Resources.resources
+C:\Users\672093\Documents\Visual Studio 2012\Projects\Team1-Workshop4-Part2 - WithDB\Team1-Workshop4-Part2\obj\Debug\Team1-Workshop4-Part2.csproj.GenerateResource.Cache
+C:\Users\672093\Documents\Visual Studio 2012\Projects\Team1-Workshop4-Part2 - WithDB\Team1-Workshop4-Part2\bin\Debug\TravelExperts_Data.MDF
+C:\Users\672093\Documents\Visual Studio 2012\Projects\Team1-Workshop4-Part2 - WithDB\Team1-Workshop4-Part2\bin\Debug\Team1-Workshop4-Part2.exe
+C:\Users\672093\Documents\Visual Studio 2012\Projects\Team1-Workshop4-Part2 - WithDB\Team1-Workshop4-Part2\bin\Debug\Team1-Workshop4-Part2.pdb
+C:\Users\672093\Documents\Visual Studio 2012\Projects\Team1-Workshop4-Part2 - Aux Form\Team1-Workshop4-Part2\bin\Debug\Team1-Workshop4-Part2.exe.config
+C:\Users\672093\Documents\Visual Studio 2012\Projects\Team1-Workshop4-Part2 - Aux Form\Team1-Workshop4-Part2\obj\Debug\Team1-Workshop4-Part2.exe
+C:\Users\672093\Documents\Visual Studio 2012\Projects\Team1-Workshop4-Part2 - Aux Form\Team1-Workshop4-Part2\obj\Debug\Team1-Workshop4-Part2.pdb
+C:\Users\672093\Documents\Visual Studio 2012\Projects\Team1-Workshop4-Part2 - Aux Form\Team1-Workshop4-Part2\bin\Debug\TravelExperts_Data.MDF
+C:\Users\672093\Documents\Visual Studio 2012\Projects\Team1-Workshop4-Part2 - Aux Form\Team1-Workshop4-Part2\bin\Debug\Team1-Workshop4-Part2.exe
+C:\Users\672093\Documents\Visual Studio 2012\Projects\Team1-Workshop4-Part2 - Aux Form\Team1-Workshop4-Part2\bin\Debug\Team1-Workshop4-Part2.pdb
+C:\Users\672093\Documents\Visual Studio 2012\Projects\Team1-Workshop4-Part2 - Aux Form\Team1-Workshop4-Part2\obj\Debug\Team1-Workshop4-Part2.csprojResolveAssemblyReference.cache
+C:\Users\672093\Documents\Visual Studio 2012\Projects\Team1-Workshop4-Part2 - Aux Form\Team1-Workshop4-Part2\obj\Debug\Team1_Workshop4_Part2.frmProductsSuppliers.resources
+C:\Users\672093\Documents\Visual Studio 2012\Projects\Team1-Workshop4-Part2 - Aux Form\Team1-Workshop4-Part2\obj\Debug\Team1_Workshop4_Part2.Properties.Resources.resources
+C:\Users\672093\Documents\Visual Studio 2012\Projects\Team1-Workshop4-Part2 - Aux Form\Team1-Workshop4-Part2\obj\Debug\Team1-Workshop4-Part2.csproj.GenerateResource.Cache
+C:\Users\672093\Documents\Visual Studio 2012\Projects\Team1-Workshop4-Part2 - Aux Form\Team1-Workshop4-Part2\obj\Debug\Team1_Workshop4_Part2.frmAddProduct.resources
+C:\Users\672093\Documents\Visual Studio 2012\Projects\Team1-Workshop4-Part2\Team1-Workshop4-Part2\bin\Debug\TravelExperts_Data.MDF
+C:\Users\672093\Documents\Visual Studio 2012\Projects\Team1-Workshop4-Part2\Team1-Workshop4-Part2\obj\Debug\Team1_Workshop4_Part2.frmAddProduct.resources
+C:\Users\672093\Documents\Visual Studio 2012\Projects\Team1-Workshop4-Part2\Team1-Workshop4-Part2\obj\Debug\Team1_Workshop4_Part2.frmProductsSuppliers.resources
